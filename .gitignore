@@ -2,10 +2,13 @@
 *.pyc
 *~
 .ropeproject*
+dask-worker-space*
 *.cfg
 .ipynb*
 *.log
+*.*lock
 **/ignore-*
 generate-*
 *.db
 **/.hypothesis*
+*.png

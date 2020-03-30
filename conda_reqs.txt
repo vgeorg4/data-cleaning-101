@@ -3,7 +3,6 @@ pandas
 scikit-learn
 scipy
 requests
-dedupe
 fuzzywuzzy
 dask
 graphviz
